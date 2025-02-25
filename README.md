@@ -1,4 +1,4 @@
-## Semi-supervised medical image segmentation via feature similarity and reliable-region enhancement
+## Semi-Supervised Medical Image Segmentation Based On Feature-Level Contrastive Learning And Unreliable Region Enhancement
 
 **Authors**: Youjia Fu, Jianjun Deng, Shengkai Hu, and Antao Lin
 
@@ -9,7 +9,7 @@
 ---
 
 ### Introduction
-Official code for "Semi-supervised medical image segmentation via feature similarity and reliable-region enhancement."
+Official code for "Semi-Supervised Medical Image Segmentation Based On Feature-Level Contrastive Learning And Unreliable Region Enhancement."
 ### Requirements
 This repository is based on PyTorch 2.0.0, CUDA 11.8 and Python 3.8. All experiments in our paper were conducted on a single NVIDIA V100 GPU with an identical experimental setting.
 
